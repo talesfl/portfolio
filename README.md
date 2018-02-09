@@ -1,5 +1,17 @@
 # portfolio
 
+# Projeto SoundColor 
+
+Projeto tem como inspiração a página web www.patatap.com, que consiste em precionar algumas teclas e combinar seus 
+efeitos visuais e sonoros.
+
+No momento, somente as teclas de 'a' a 'd', em ordem alfabética, funcionam.
+
+Tecnologias: HTML, Canvas, CSS, Javascript
+Bibliotecas: 
+	paper.js - animação em canvas, 
+	howler.js - facilita o manuseio de arquivo de audios em Javascrip.
+
 
 # Projeto TaskProject
 
